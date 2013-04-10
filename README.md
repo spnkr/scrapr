@@ -1,4 +1,4 @@
-Get HTML web pages via a cache. Don't get banned any more. Get the google cache for a url. Cache saved in redis or mysql.
+Get HTML web pages via a cache. Don't get banned any more. Get the google cache for a url. Requires mongodb.
 
 ## Install
 ~~~
